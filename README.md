@@ -178,7 +178,7 @@ After running, you'll see:
 @article{blockflow2024,
   title={BlockFlow: A Scalable Blockchain Integrated Federated Learning Framework},
   author={BlockFlow Team},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -214,3 +214,4 @@ Issues and PRs welcome! Please ensure all imports use **absolute paths** (not re
 ---
 
 **Happy Federated Learning!** 🎉
+
